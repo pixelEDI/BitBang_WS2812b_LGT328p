@@ -80,3 +80,8 @@ void rainbow(uint8_t position, uint8_t &r, uint8_t &g, uint8_t &b) {
 ```
 
 Dieser Code demonstriert, wie mit Bitbanging und FastIO die WS2812B LEDs ohne Bibliotheken effizient gesteuert werden können, während eine hohe Präzision und Geschwindigkeit gewährleistet bleibt.
+
+## Links
+
+- WS2812b Datasheet: <https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf>
+- fastio LGT8FX: <https://github.com/dbuezas/lgt8fx/blob/master/lgt8f/libraries/lgt328p/examples/lgt8fx8p_fastio/lgt8fx8p_fastio.ino>
